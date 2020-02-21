@@ -34,10 +34,8 @@ Structure of cluster follows architecture mentioned in report. Please follow bel
 	
 	DASHBOARD URL:
 	URL: https://cloud.mongodb.com/v2/5ca4eea5cf09a2d1b1a4b7fd#metrics/replicaSet/5ca4efe2fd4cba101aeb8cb3/explorer/iot_prediction/battery_1/find
-	username: mbaig@sfu.ca
-	password: Burnaby1$
-	
-	API URL: mongodb+srv://falcon:vancouver@cmpt733-stzkw.mongodb.net/test?retryWrites=true 
+	username: ****@sfu.ca
+	password: *******
 	
 (5) VISUALIZATION:
 	Beta version of mongo chart is used for basic visualization, data-source(db at atlas) is mentioned at mongo chart and frequency of update is at 1 min.
