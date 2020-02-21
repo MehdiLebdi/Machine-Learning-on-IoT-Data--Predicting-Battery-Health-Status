@@ -1,0 +1,6 @@
+type,drain,recharge,anomaly_rate,health_cycle
+bat1,3,120,0.001,20
+bat2,6,60,0.0001,15
+bat3,4,120,0.0005,10
+bat4,3,90,0.005,20
+bat5,5,60,0.01,15

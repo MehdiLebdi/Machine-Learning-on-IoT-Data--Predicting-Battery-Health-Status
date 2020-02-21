@@ -1,0 +1,4 @@
+model_name,brand_name,anomaly_rate
+S6,Samsung,0.05
+S6-plus,Samsung,0.03
+S5,Samsung,0.01
